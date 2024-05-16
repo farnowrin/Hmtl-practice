@@ -1,0 +1,140 @@
+/* div{
+    height: 100px;
+    width: 100px;
+background-color: pink;
+border-width: 2px;
+border-style: dotted ;
+border-color: blue;
+text-align: center;
+border-radius: 30px;
+padding: 25px;
+margin:25px;
+}
+h1{
+width: 200px;
+height:50px ;
+background-color: seagreen;
+border-width: 4px;
+border-style: dashed;
+border-color:black;
+text-align: center;
+
+}
+ */
+/* 
+div {
+    height: 100px;
+width: 100px;
+background-color:green;
+border-radius: 50%;
+
+ */
+/* } */
+
+
+/* *{
+padding: 0;
+margin: 0;
+color: white;
+} */
+#navbar{
+height: 60px; ;
+background-color: #0f0000;
+
+
+}
+
+button{
+background-color: #f08804;
+
+}
+
+#logo{
+background-color: #f08804;
+font-size: 25px;
+}
+
+
+a{
+    margin-right : 150px ;
+    text-decoration: none;
+}
+
+
+ 
+
+/* div{
+  background-color: chartreuse;
+   /* display:inline;  */
+  /* height: 100px;
+  width:  100px;
+  padding: 50px;
+  margin:30px;
+  border: 5px solid red; */
+   /* display: block; */
+/* } */
+
+/* button{
+  display: block;
+  padding: 50px;
+  background-color: aquamarine;
+  height: 100px;
+  width:  100px;
+}  */
+
+
+/* div{
+width: 100px;
+height: 100px;
+margin: 25px; 
+padding: 25px; 
+display: inline-block; 
+border: 10px;
+border-color: black;
+} 
+
+#box2{
+
+    display: none;
+} */
+.contentbox{
+    height:100px;
+    width:100px;
+    border: 2px solid pink;
+display: inline-block;
+}
+#content{
+
+
+    height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
